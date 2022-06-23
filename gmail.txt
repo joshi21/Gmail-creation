@@ -1,2 +1,5 @@
 Create account
 login
+create home page
+compose mail
+inbox folder
