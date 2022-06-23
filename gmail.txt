@@ -3,3 +3,5 @@ login
 create home page
 compose mail
 inbox folder
+send items
+draft box
