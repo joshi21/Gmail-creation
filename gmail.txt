@@ -5,3 +5,6 @@ compose mail
 inbox folder
 send items
 draft box
+All mails
+personal
+Attatchments
